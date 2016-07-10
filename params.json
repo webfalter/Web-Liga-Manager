@@ -1,6 +1,6 @@
 {
   "name": "WLM",
   "tagline": "",
-  "body": "### Web-Liga-Manager (WLM)\r\nMit\r\n\r\n### Module\r\n## LigaPartie\r\n![LigaPartie](images/wlm/ligapartie.png)\r\n\r\n\r\n\r\n",
+  "body": "# Web-Liga-Manager (WLM)\r\nMit\r\n\r\n## Module\r\n### Verein\r\n\r\n### Team\r\n\r\n### Liga\r\n\r\n### LigaOtion\r\n\r\n### LigaTeam\r\n\r\n### LigaPartie\r\n![LigaPartie](images/wlm/ligapartie.png)\r\n\r\n\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
