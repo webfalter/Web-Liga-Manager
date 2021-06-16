@@ -3,8 +3,8 @@ Web-Liga-Manager
 
 Einleitung
 --------------------------
-Mit dieser Software können Sie Ihren Besuchern einen Ergebnisdienst über Ihre Lieblingsligen anbieten.
-Die gesamte Verwaltung der Ligen läuft dabei direkt auf dem Server ab. Sie tragen nur noch die Ergebnisse ein
+Mit dieser Software kÃ¶nnen Sie Ihren Besuchern einen Ergebnisdienst Ã¼ber Ihre Lieblingsligen anbieten.
+Die gesamte Verwaltung der Ligen lÃ¤uft dabei direkt auf dem Server ab. Sie tragen nur noch die Ergebnisse ein
 und Ihre Besucher erhalten sofort die aktuellen Tabellen, Statistiken usw.
 
 Systemvoraussetzungen
@@ -16,7 +16,7 @@ Installation
 Als erstes installieren wir Composer und starten `composer install`. 
 Kopiere die Datei `app/config/development.ini` nach `app/config/config.ini` und passe die Zeilen an XAMPP.
 
-Online Unterstützung
+Online UnterstÃ¼tzung
 --------------------------
 
 Lizenzbestimmungen & Rechtliches
