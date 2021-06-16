@@ -1,4 +1,4 @@
-Web-Liga-Manager
+Web-LigaManager
 ================
 
 Einleitung
